@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>J's Tech Journey</title>
+</head>
+<body>
+  <h1>Welcome to My Web Project</h1>
+  <p>Hi, I'm J. I'm currently studying Information Technology at ASU Online while working at Starbucks. This site is part of my journey to master HTML, CSS, and web development fundamentals.</p>
+
+  <img src="header.jpg" alt="Tech-themed header image" width="600">
+
+  <ul>
+    <li>Learning HTML, CSS, and GitHub</li>
+    <li>Building personal websites for school projects</li>
+    <li>Balancing work, study, and budgeting</li>
+  </ul>
+
+  <p>Feel free to check out my <a href="https://github.com/johnathan204">GitHub profile</a> to see what I'm working on.</p>
+</body>
+</html>
+
